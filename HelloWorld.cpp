@@ -10,6 +10,6 @@ int main()
 { 
     // prints hello world 
     cout<<"Hello World!"; 
-      
+//Testing git merge!” from “HelloWorld”      
     return 0; 
 } 
